@@ -1,0 +1,25 @@
+{
+  "name": "its-not-corona-time-discord-bot",
+  "version": "1.0.0",
+  "description": "A bot to respond to any mentions of CoronaVirus/Covid-19 etc with a Dad Joke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reztierk/its-not-corona-time-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reztierk/its-not-corona-time-discord-bot/issues"
+  },
+  "homepage": "https://github.com/reztierk/its-not-corona-time-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "fuse.js": "^4.0.4-beta"
+  }
+}
